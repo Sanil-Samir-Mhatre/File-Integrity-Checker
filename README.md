@@ -61,3 +61,6 @@ By following these steps, the File Integrity Checker provides a simple and effec
 
 ## License
 This project is licensed under the MIT License.
+
+# Output
+
