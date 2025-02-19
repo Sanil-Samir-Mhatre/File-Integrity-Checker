@@ -1,15 +1,16 @@
-#Internship Details
-Company Name: CODTECH IT SOLUTIONS PVT. LTD
+##Internship Details
 
-intern Name: SANIL SAMIR MHATRE
+COMPANY NAME: CODTECH IT SOLUTIONS PVT. LTD
 
-Intern ID: CT08JTP
+INTERN NAME: Sanil Samir Mhatre
 
-Domain: CYBER SECURITY AND ETHICAL HACKING
+INTERN ID: CT08JTP
 
-Batch Duration: JANUARY 20th, 2025 to FEBRUARY 20th, 2025
+DOMAIN: Cyber Security & Ethical Hacking
 
-Mentor Name: NEELA SANTOSH KUMAR
+BATCH DURATION: January 20th, 2025 to February 20th, 2025
+
+MENTOR NAME: Neela Santosh Kumar
 
 
 # File Integrity Checker
