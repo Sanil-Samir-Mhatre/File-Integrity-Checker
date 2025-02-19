@@ -1,10 +1,16 @@
 #Internship Details
 Company Name: CODTECH IT SOLUTIONS PVT. LTD
+
 intern Name: SANIL SAMIR MHATRE
+
 Intern ID: CT08JTP
+
 Domain: CYBER SECURITY AND ETHICAL HACKING
+
 Batch Duration: JANUARY 20th, 2025 to FEBRUARY 20th, 2025
+
 Mentor Name: NEELA SANTOSH KUMAR
+
 
 # File Integrity Checker
 This is a simple file integrity checker that uses SHA-256 hashes to monitor changes in files. It provides a graphical user interface (GUI) to select files and check their integrity.
