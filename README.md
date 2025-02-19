@@ -64,3 +64,13 @@ This project is licensed under the MIT License.
 
 # Output
 
+![Image](https://github.com/user-attachments/assets/1b7c92df-07f0-47a0-9178-ad19e1947600)
+
+![Image](https://github.com/user-attachments/assets/80f4f043-4a40-4a55-b254-1fa49c6c39bc)
+
+![Image](https://github.com/user-attachments/assets/80910ee1-427c-48f8-9116-70e9879772de)
+
+![Image](https://github.com/user-attachments/assets/64e462a8-316f-4f2e-8635-fe4f452ed527)
+
+![Image](https://github.com/user-attachments/assets/774e0335-17db-4131-b3bf-578d7487d1af)
+
